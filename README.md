@@ -1,4 +1,4 @@
-# Portfolio Stocks Strategy [Python-Tableau] 
+**Portfolio Stocks Strategy [Python-Tableau]** 
 
 ---
 

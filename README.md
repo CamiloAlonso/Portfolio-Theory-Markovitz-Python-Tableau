@@ -1,4 +1,4 @@
-# Portfolio-Theory-Markovitz-Python-Tableau-
+# Portfolio-Theory [Python-Tableau] -
 
 Considering the increasing possibility of a near future recession,
 here its proposed a portfolio strategy using stocks that had

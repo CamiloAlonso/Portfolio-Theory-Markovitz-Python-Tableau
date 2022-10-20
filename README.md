@@ -11,5 +11,5 @@ in Tableau to show the findings.
 
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/116107042/197073373-49d6984c-86cd-4afe-86be-19950c40a8dd.png" width=50% height=50%>
+ <img src="https://user-images.githubusercontent.com/116107042/197073373-49d6984c-86cd-4afe-86be-19950c40a8dd.png" width=70% height=70%>
 </p>

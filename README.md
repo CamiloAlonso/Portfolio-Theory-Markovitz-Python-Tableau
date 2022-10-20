@@ -10,4 +10,5 @@ in Tableau to show the findings.
 
 
 
-![EF_Frontier](https://user-images.githubusercontent.com/116107042/197073266-c54c59ff-fe69-486a-8694-acba82e53824.png)
+
+<img src="https://user-images.githubusercontent.com/116107042/197073373-49d6984c-86cd-4afe-86be-19950c40a8dd.png" width=50% height=50%>

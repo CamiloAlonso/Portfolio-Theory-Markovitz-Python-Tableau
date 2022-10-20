@@ -9,4 +9,4 @@ theory with a monte-carlo simulation in order to create a dashboard
 in Tableau to show the findings.
 
 
-![EF_Frontier](https://user-images.githubusercontent.com/116107042/197072977-3db80bf1-3aee-4627-b915-a6dd12214951.png =700x900)
+<img src="https://your-image-url.type" width="100" height="100">
